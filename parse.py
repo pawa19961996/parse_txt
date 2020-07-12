@@ -45,3 +45,4 @@ with open("test.txt") as fp,open("parse.txt","w") as of:
             of.write('start cycle:%d end cycle:%d total cycle:%d\n' %(start_cycle,end_cycle,total_cycle))
             print'--------------------------'
 
+print 'create by S.H'
